@@ -1,2 +1,2 @@
 # IMDB_movie_recomender
-Content based Movie recommendation System, that will recommend top 250 IMDB movies that you have watched based on the latest top IMDB movies you have watched.
+Content based Movie recommendation System, that will recommend top 10 IMDB movies that you can watch, based on the latest top 250 IMDB movies you have watched.
